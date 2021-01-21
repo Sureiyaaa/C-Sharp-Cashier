@@ -1,0 +1,13 @@
+E:\Documents\Secret\CS\bin\Debug\netcoreapp3.1\CS.exe
+E:\Documents\Secret\CS\bin\Debug\netcoreapp3.1\CS.deps.json
+E:\Documents\Secret\CS\bin\Debug\netcoreapp3.1\CS.runtimeconfig.json
+E:\Documents\Secret\CS\bin\Debug\netcoreapp3.1\CS.runtimeconfig.dev.json
+E:\Documents\Secret\CS\bin\Debug\netcoreapp3.1\CS.dll
+E:\Documents\Secret\CS\bin\Debug\netcoreapp3.1\CS.pdb
+E:\Documents\Secret\CS\obj\Debug\netcoreapp3.1\CS.csprojAssemblyReference.cache
+E:\Documents\Secret\CS\obj\Debug\netcoreapp3.1\CS.AssemblyInfoInputs.cache
+E:\Documents\Secret\CS\obj\Debug\netcoreapp3.1\CS.AssemblyInfo.cs
+E:\Documents\Secret\CS\obj\Debug\netcoreapp3.1\CS.csproj.CoreCompileInputs.cache
+E:\Documents\Secret\CS\obj\Debug\netcoreapp3.1\CS.dll
+E:\Documents\Secret\CS\obj\Debug\netcoreapp3.1\CS.pdb
+E:\Documents\Secret\CS\obj\Debug\netcoreapp3.1\CS.genruntimeconfig.cache
